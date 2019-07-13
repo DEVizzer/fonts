@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'silgothic';
+  font-style: normal;
+  src: local('※'),
+    url('silgothic.woff') format('woff');
+}

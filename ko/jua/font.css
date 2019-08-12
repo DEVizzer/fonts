@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'JuA';
+  font-style: normal;
+  font-weight: 400;
+  src: local('※'),
+      url('JuA.woff') format('woff');
+
+}
+

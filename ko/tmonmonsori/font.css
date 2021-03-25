@@ -1,0 +1,15 @@
+/* noto-sans-kr-100 - latin_korean */
+@font-face {
+  font-family: 'Tmon-Monsori';
+  font-style: normal;
+  font-weight: 400;
+  src: local('※'),
+    url('Tmon_Monsori.woff') format('woff');
+}
+@font-face {
+  font-family: 'Tmon-Monsori';
+  font-style: normal;
+  font-weight: 900;
+  src: local('※'),
+    url('Tmon_Monsori.woff') format('woff');
+}
